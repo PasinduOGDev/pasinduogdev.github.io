@@ -41,7 +41,7 @@
                             seamless,
                             enhanced user experience.</p>
                         <p class="fw-bold text-warning">BEng (Hons) in Software Engineering (Undergraduate)</p>
-                        <a href="#" class="btn btn-warning btn-lg btn-hero">Get Started</a>
+                        <a href="#" class="btn btn-warning">Download CV</a>
                         <div class="row mt-5 justify-content-center">
                             <h3>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
