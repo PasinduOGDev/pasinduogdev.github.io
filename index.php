@@ -45,7 +45,7 @@
                         <a href="#" class="btn btn-success btn-lg btn-hero">Download CV</a>
                         <div class="row mt-5 justify-content-center">
                             <h3>
-                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="https://www.facebook.com/pasindu.og.dev.0"><i class="bi bi-facebook"></i></a>
                                 &nbsp;
                                 <a href="#"><i class="bi bi-instagram"></i></a>
                                 &nbsp;
@@ -526,7 +526,7 @@
                                                                 </span>pasinduogdev@gmail.com</p>
 
                                                             <h4>
-                                                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                                                <a href="https://www.facebook.com/pasindu.og.dev.0"><i class="bi bi-facebook"></i></a>
                                                                 &nbsp;
                                                                 <a href="https://wa.me/+94760135744"><i
                                                                         class="bi bi-whatsapp"></i></a>

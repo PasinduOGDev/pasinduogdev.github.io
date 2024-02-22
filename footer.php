@@ -24,7 +24,7 @@
                     <section class="mb-4">
                         <h2>
                             <!-- Facebook -->
-                            <a href="#!" role="button"><i class="bi bi-facebook"></i></a>&nbsp;
+                            <a href="https://www.facebook.com/pasindu.og.dev.0" role="button"><i class="bi bi-facebook"></i></a>&nbsp;
 
                             <!-- Instagram -->
                             <a href="#!" role="button"><i class="bi bi-instagram"></i></a>&nbsp;
