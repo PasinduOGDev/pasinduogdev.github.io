@@ -42,7 +42,7 @@
                             seamless,
                             enhanced user experience.</p>
                         <p class="fw-bold text-warning">BEng (Hons) in Software Engineering (Undergraduate)</p>
-                        <a href="#" class="btn btn-warning btn-lg btn-hero">Download CV</a>
+                        <a href="#" class="btn btn-success btn-lg btn-hero">Download CV</a>
                         <div class="row mt-5 justify-content-center">
                             <h3>
                                 <a href="#"><i class="bi bi-facebook"></i></a>
@@ -82,7 +82,7 @@
                                                     undergraduate student currently charting a course towards a BSc
                                                     (Hons)
                                                     in
-                                                    Software Engineering at Java Institute.</p><br/>
+                                                    Software Engineering at Java Institute.</p><br />
 
                                                 <p>I have a diverse skill set, including web development, backend
                                                     coding,
@@ -94,7 +94,7 @@
                                                     also
                                                     highlights my agility in navigating the ever-changing technological
                                                     landscape.
-                                                </p><br/>
+                                                </p><br />
 
                                                 <p>In terms of innovation, I am actively involved in robotic projects,
                                                     which
@@ -103,7 +103,7 @@
                                                     for
                                                     pushing the frontiers of what is possible in the world of
                                                     technology.
-                                                </p><br/>
+                                                </p><br />
 
                                                 <p>With an unwavering commitment to excellence, I am not just an
                                                     aspiring
@@ -115,7 +115,7 @@
                                                     on this path of continual learning, creativity, and unwavering
                                                     pursuit
                                                     of
-                                                    greatness in the changing world of software engineering.</p><br/>
+                                                    greatness in the changing world of software engineering.</p><br />
                                             </div>
 
                                             <div class="col-12 col-lg-6 mt-4 mt-lg-0 text-center text-lg-end">
@@ -154,7 +154,8 @@
                                             </div>
 
                                             <div class="col-12 col-lg-6" style="text-align: justify;">
-                                                <h3 class="fw-bold">I'm a Developer & Professional For Web Application Development</h3><br /><br />
+                                                <h3 class="fw-bold">I'm a Developer & Professional For Web Application
+                                                    Development</h3><br /><br />
 
                                                 <p>Pasindu OG is a dedicated and skilled web developer with a deep
                                                     passion
@@ -282,6 +283,217 @@
             </section>
 
             <section>
+                <div id="pricing-area">
+                    <div class="hero-section-about d-flex justify-content-center p-3 mt-5">
+                        <div class="overlay"></div>
+                        <div class="container reveal fade-bottom">
+
+                            <div class="row mt-5 d-flex justify-content-center">
+                                <div class="col-12 p-3 text-uppercase text-center bg-secondary"
+                                    style="border-radius: 10px;">
+                                    <h2 class="">My Pricing</h2>
+                                </div>
+                                <div class="row mt-5 mb-5">
+                                    <div class="col-12">
+
+                                        <div class="row g-4 justify-content-center">
+
+                                            <div class="col-12 col-lg-8">
+
+                                                <!-- Card -->
+
+                                                <div
+                                                    class="col-12 p-3 card pricecard bg-opacity-50 mt-3 bg-dark mb-2 h-100">
+
+                                                    <div class="card-body">
+
+                                                        <div class="col-12 mb-5 btn-group" role="group">
+                                                            <button id="webbtn" onclick="changeCard()" type="button"
+                                                                class="col-6 p-2 btn btn-dark active">Website</button>
+                                                            <button id="sysbtn" onclick="changeCard()" type="button"
+                                                                class="col-6 p-2 btn btn-dark">System</button>
+                                                        </div>
+
+                                                        <div class="toggler" id="website">
+
+                                                            <div class="col-12">
+                                                                <h3 class="text-center">Website Development Package</h3>
+                                                            </div>
+
+                                                            <p class="text-center text-warning">HTML/CSS/JS</p>
+
+                                                            <p class="text-center">
+                                                                <a class="proicons p-2" href="https://www.w3.org/html/"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                                                                        alt="html5" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2"
+                                                                    href="https://www.w3schools.com/css/"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                                                                        alt="css3" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2"
+                                                                    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                                                                        alt="javascript" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                            </p>
+
+                                                            <p class="text-center">Website Homepage or Landing Page or
+                                                                Dashboard UI UX Design.</p><br />
+
+                                                            <div class="col-12">
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>With 3 Pages</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>Design Customization</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>Responsive Design</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>2 Plugins/Extensions</span>
+                                                                </p>
+                                                            </div>
+
+
+                                                            <div class="col-12 mt-5 text-center">
+                                                                <p class="fs-4">Price: <span
+                                                                        class="fw-bold text-warning">LKR 10,000+</span>
+                                                                </p>
+                                                            </div>
+
+                                                            <div class="col-12 mt-2">
+                                                                <button class="col-12 button-41" role="button"><span
+                                                                        class="text-dark fw-bold">Order
+                                                                        Now</span></button>
+                                                            </div>
+
+                                                        </div>
+
+                                                        <div class="d-none" id="webapp">
+
+                                                            <div class="col-12">
+                                                                <h3 class="text-center">E-Commerce Websites and
+                                                                    Management Systems</h3>
+                                                            </div>
+
+                                                            <p class="text-center text-warning">
+                                                                HTML/CSS/JS/PHP/BOOTSTRAP
+                                                            </p>
+
+                                                            <p class="text-center">
+                                                                <a class="proicons p-2" href="https://www.w3.org/html/"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                                                                        alt="html5" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2"
+                                                                    href="https://www.w3schools.com/css/"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                                                                        alt="css3" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2"
+                                                                    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                                                                        alt="javascript" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2" href="https://www.php.net"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                                                                        alt="php" width="40" height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2" href="https://getbootstrap.com"
+                                                                    target="_blank" rel="noreferrer">
+                                                                    <img src="https://www.pngrepo.com/download/303293/bootstrap-4-logo.png"
+                                                                        target="_blank" rel="noreferrer" width="40"
+                                                                        height="40" />
+                                                                </a>&nbsp;
+                                                                <a class="proicons p-2" href="#" target="_blank"
+                                                                    rel="noreferrer">
+                                                                    <img src="https://cdn.freebiesupply.com/logos/large/2x/semantic-ui-logo-png-transparent.png"
+                                                                        target="_blank" rel="noreferrer" width="40"
+                                                                        height="40" />
+                                                                </a>&nbsp;
+                                                            </p>
+
+                                                            <p class="text-center">1. An easy to manage, ecommerce store,
+                                                                take
+                                                                full control of your content inventory & sales.</p>
+
+                                                                <p class="text-center">2. POS System / Student Managment System etc.</p>
+                                                            <br />
+
+                                                            <div class="col-12">
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>With 6+ Pages</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>Design Customization</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>Responsive Design</span>
+                                                                </p>
+
+                                                                <p class="text-start">
+                                                                    <span><i class="bi bi-check-lg"></i></span>
+                                                                    <span>Payment Gateway (PayHere)</span>
+                                                                </p>
+                                                            </div>
+
+
+                                                            <div class="col-12 mt-5 text-center">
+                                                                <p class="fs-4">Price: <span
+                                                                        class="fw-bold text-warning">LKR 25,000+</span>
+                                                                </p>
+                                                            </div>
+
+                                                            <div class="col-12 mt-2">
+                                                                <button class="col-12 button-41" role="button"><span
+                                                                        class="text-dark fw-bold">Order
+                                                                        Now</span></button>
+                                                            </div>
+
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+
+                                                <!-- Card -->
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
                 <div id="contact-area">
                     <div class="hero-section p-3 mt-5 mb-5">
                         <div class="overlay"></div>
@@ -298,7 +510,7 @@
 
                                             <div class="col-12 col-lg-6">
 
-                                                <div class="col-12 card h-100 bg-dark text-white">
+                                                <div class="col-12 card p-3 h-100 bg-dark text-white">
                                                     <div class="card-body">
 
                                                         <img src="resources/myimage2.jpg" class="col-12"

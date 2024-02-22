@@ -27,6 +27,9 @@
                     <a class="nav-link" href="#services-area">Services</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#pricing-area">Pricing</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#contact-area">Contact</a>
                 </li>
             </ul>

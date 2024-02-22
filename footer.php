@@ -11,47 +11,46 @@
 
 <body>
 
-    <!-- Remove the container if you want to extend the Footer to full width. -->
-    <div class="container reveal fade-bottom my-5">
+    <div class="row bg-dark bg-opacity-75">
+        <!-- Remove the container if you want to extend the Footer to full width. -->
+        <div class="reveal fade-bottom my-5">
 
-        <footer class="text-center text-white">
-            <!-- Grid container -->
-            <div class="container p-4 pb-0">
-            <img src="resources/logo.png" width="100px"><br /><br />
-                <!-- Section: Social media -->
-                <section class="mb-4">
-                    <h2>
-                        <!-- Facebook -->
-                        <a href="#!" role="button"><i
-                                class="bi bi-facebook"></i></a>&nbsp;
+            <footer class="text-center text-white">
+                <!-- Grid container -->
+                <div class="container p-4 pb-0">
+                    <img src="resources/logo.png" width="100px"><br /><br />
+                    <p class="text-warning fw-bold">"Coding2Future by OG"</p>
+                    <!-- Section: Social media -->
+                    <section class="mb-4">
+                        <h2>
+                            <!-- Facebook -->
+                            <a href="#!" role="button"><i class="bi bi-facebook"></i></a>&nbsp;
 
-                        <!-- Instagram -->
-                        <a href="#!" role="button"><i
-                                class="bi bi-instagram"></i></a>&nbsp;
+                            <!-- Instagram -->
+                            <a href="#!" role="button"><i class="bi bi-instagram"></i></a>&nbsp;
 
-                        <!-- Linkedin -->
-                        <a href="#!" role="button"><i
-                                class="bi bi-linkedin"></i></a>&nbsp;
+                            <!-- Linkedin -->
+                            <a href="#!" role="button"><i class="bi bi-linkedin"></i></a>&nbsp;
 
-                        <!-- Github -->
-                        <a href="https://github.com/pasinduogdev"
-                            role="button"><i class="bi bi-github"></i></a>
-                    </h2>
-                </section>
-                <!-- Section: Social media -->
-            </div>
-            <!-- Grid container -->
+                            <!-- Github -->
+                            <a href="https://github.com/pasinduogdev" role="button"><i class="bi bi-github"></i></a>
+                        </h2>
+                    </section>
+                    <!-- Section: Social media -->
+                </div>
+                <!-- Grid container -->
 
-            <!-- Copyright -->
-            <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-                © 2024 Copyright &copy;:
-                <a class="text-white text-decoration-none">Pasindu OG Dev</a>
-            </div>
-            <!-- Copyright -->
-        </footer>
+                <!-- Copyright -->
+                <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+                    © 2024 Copyright &copy;:
+                    <a class="text-white text-decoration-none">Pasindu OG Dev</a>
+                </div>
+                <!-- Copyright -->
+            </footer>
 
+        </div>
+        <!-- End of .container -->
     </div>
-    <!-- End of .container -->
 
     <script src="script.js"></script>
 </body>
