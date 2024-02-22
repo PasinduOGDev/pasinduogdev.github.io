@@ -154,7 +154,7 @@
                                             </div>
 
                                             <div class="col-12 col-lg-6" style="text-align: justify;">
-                                                <h3 class="fw-bold">I'm a Developer & Professional For Web Development</h3><br /><br />
+                                                <h3 class="fw-bold">I'm a Developer & Professional For Web Application Development</h3><br /><br />
 
                                                 <p>Pasindu OG is a dedicated and skilled web developer with a deep
                                                     passion
