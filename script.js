@@ -82,8 +82,10 @@ function changeCard1() {
 
   website.classList.remove('d-none');
   webapp.classList.add('d-none');
-  button1.classList.add('btn btn-secondary');
-  button2.classList.remove('btn btn-secondary');
+  button1.classList.add('active');
+  button2.classList.remove('active');
+  button1.classList.add('text-warning');
+  button2.classList.remove('text-warning');
 
 }
 
@@ -97,7 +99,9 @@ function changeCard2() {
 
   website.classList.add('d-none');
   webapp.classList.remove('d-none');
-  button2.classList.add('btn btn-secondary');
-  button1.classList.remove('btn btn-secondary');
+  button2.classList.add('active');
+  button1.classList.remove('active');
+  button2.classList.add('text-warning');
+  button1.classList.remove('text-warning');
 
 }

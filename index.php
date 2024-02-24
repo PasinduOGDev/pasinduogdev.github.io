@@ -66,7 +66,7 @@
                         <div class="overlay"></div>
                         <div class="container reveal fade-bottom">
 
-                            <div class="row mt-5  d-flex justify-content-center">
+                            <div class="row mt-5 d-flex justify-content-center">
                                 <div class="col-12 p-3 text-uppercase text-center"
                                     style="border-radius: 10px; background-color: rgba(238, 0, 0, 0.6);">
                                     <h2 class="">About me</h2>
