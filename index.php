@@ -303,14 +303,14 @@
                                                 <!-- Card -->
 
                                                 <div
-                                                    class="col-12 p-3 card pricecard bg-opacity-50 mt-3 bg-dark mb-2 h-100">
+                                                    class="col-12 p-3 card bg-opacity-50 mt-3 bg-dark mb-2 h-100">
 
                                                     <div class="card-body">
 
                                                         <div class="col-12 mb-5 btn-group" role="group">
-                                                            <button id="webbtn" onclick="changeCard()" type="button"
-                                                                class="col-6 p-2 btn btn-dark active">Website</button>
-                                                            <button id="sysbtn" onclick="changeCard()" type="button"
+                                                            <button id="toggle1" onclick="changeCard1()" type="button"
+                                                                class="col-6 p-2 btn btn-dark">Website</button>
+                                                            <button id="toggle2" onclick="changeCard2()" type="button"
                                                                 class="col-6 p-2 btn btn-dark">System</button>
                                                         </div>
 

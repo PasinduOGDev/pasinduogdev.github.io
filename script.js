@@ -73,17 +73,31 @@ function reveal() {
 
 window.addEventListener("scroll", reveal);
 
-function changeCard() {
+function changeCard1() {
 
   var website = document.getElementById("website");
   var webapp = document.getElementById("webapp");
-  var webbtn = document.getElementById("webbtn");
-  var sysbtn = document.getElementById("sysbtn");
+  var button1 = document.getElementById("toggle1");
+  var button2 = document.getElementById("toggle2");
 
-  website.classList.toggle("d-none");
-  webapp.classList.toggle("d-none");
+  website.classList.remove('d-none');
+  webapp.classList.add('d-none');
+  button1.classList.add('btn btn-secondary');
+  button2.classList.remove('btn btn-secondary');
 
-  webbtn.classList.toggle("active");
-  sysbtn.classList.toggle("active");
+}
+
+
+function changeCard2() {
+
+  var website = document.getElementById("website");
+  var webapp = document.getElementById("webapp");
+  var button1 = document.getElementById("toggle1");
+  var button2 = document.getElementById("toggle2");
+
+  website.classList.add('d-none');
+  webapp.classList.remove('d-none');
+  button2.classList.add('btn btn-secondary');
+  button1.classList.remove('btn btn-secondary');
 
 }
