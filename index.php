@@ -47,9 +47,10 @@
                             <h3>
                                 <a href="https://www.facebook.com/pasindu.og.dev.0"><i class="bi bi-facebook"></i></a>
                                 &nbsp;
-                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="https://www.instagram.com/pasinduog.dev/"><i class="bi bi-instagram"></i></a>
                                 &nbsp;
-                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://www.linkedin.com/in/pasindu-owa-gamage-3583642ab/"><i
+                                        class="bi bi-linkedin"></i></a>
                                 &nbsp;
                                 <a href="https://www.youtube.com/@pasindu_og_dev"><i class="bi bi-youtube"></i></a>
                                 &nbsp;
@@ -76,10 +77,12 @@
 
                                         <div class="row">
 
-                                            <div class="col-12 col-lg-6" style="text-align: justify;">
+                                            <div class="col-12 col-lg-6" style="text-align: start;">
+                                                <h3 class="fw-bold">Who I am?</h3>
+
                                                 <p>Welcome to the digital realm of Pasindu OG Dev, a dynamic and
                                                     ambitious
-                                                    undergraduate student currently charting a course towards a BSc
+                                                    undergraduate student currently charting a course towards a BEng
                                                     (Hons)
                                                     in
                                                     Software Engineering at Java Institute.</p><br />
@@ -153,9 +156,9 @@
                                                 <img src="resources/icons.png" class="col-10 mb-5">
                                             </div>
 
-                                            <div class="col-12 col-lg-6" style="text-align: justify;">
+                                            <div class="col-12 col-lg-6" style="text-align: start;">
                                                 <h3 class="fw-bold">I'm a Developer & Professional For Web Application
-                                                    Development</h3><br /><br />
+                                                    Development</h3><br />
 
                                                 <p>Pasindu OG is a dedicated and skilled web developer with a deep
                                                     passion
@@ -302,16 +305,15 @@
 
                                                 <!-- Card -->
 
-                                                <div
-                                                    class="col-12 p-3 card bg-opacity-50 mt-3 bg-dark mb-2 h-100">
+                                                <div class="col-12 p-3 card bg-opacity-50 mt-3 bg-dark mb-2 h-100">
 
                                                     <div class="card-body">
 
                                                         <div class="col-12 mb-5 btn-group" role="group">
                                                             <button id="toggle1" onclick="changeCard1()" type="button"
-                                                                class="col-6 p-2 btn btn-dark">Website</button>
+                                                                class="col-12 col-md-6 p-2 btn btn-dark text-warning active">Website</button>
                                                             <button id="toggle2" onclick="changeCard2()" type="button"
-                                                                class="col-6 p-2 btn btn-dark">System</button>
+                                                                class="col-12 col-md-6 p-2 btn btn-dark">System</button>
                                                         </div>
 
                                                         <div class="toggler" id="website">
@@ -430,11 +432,13 @@
                                                                 </a>&nbsp;
                                                             </p>
 
-                                                            <p class="text-center">1. An easy to manage, ecommerce store,
+                                                            <p class="text-center">1. An easy to manage, ecommerce
+                                                                store,
                                                                 take
                                                                 full control of your content inventory & sales.</p>
 
-                                                                <p class="text-center">2. POS System / Student Managment System etc.</p>
+                                                            <p class="text-center">2. POS System / Student Managment
+                                                                System etc.</p>
                                                             <br />
 
                                                             <div class="col-12">
@@ -470,6 +474,9 @@
                                                                 <button class="col-12 button-41" role="button"><span
                                                                         class="text-dark fw-bold">Order
                                                                         Now</span></button>
+                                                                <span class="col-12 text-warning">( <span
+                                                                        class="fw-bold text-warning">Recommended</span>
+                                                                    )</span>
                                                             </div>
 
                                                         </div>
@@ -526,12 +533,18 @@
                                                                 </span>pasinduogdev@gmail.com</p>
 
                                                             <h4>
-                                                                <a href="https://www.facebook.com/pasindu.og.dev.0"><i class="bi bi-facebook"></i></a>
+                                                                <a href="https://www.facebook.com/pasindu.og.dev.0"><i
+                                                                        class="bi bi-facebook"></i></a>
+                                                                &nbsp;
+                                                                <a href="https://www.instagram.com/pasinduog.dev/"><i
+                                                                        class="bi bi-instagram"></i></a>
                                                                 &nbsp;
                                                                 <a href="https://wa.me/+94760135744"><i
                                                                         class="bi bi-whatsapp"></i></a>
                                                                 &nbsp;
-                                                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                                                                <a
+                                                                    href="https://www.linkedin.com/in/pasindu-owa-gamage-3583642ab/"><i
+                                                                        class="bi bi-linkedin"></i></a>
                                                                 &nbsp;
                                                                 <a href="https://github.com/pasinduogdev"><i
                                                                         class="bi bi-github"></i></a>
@@ -550,37 +563,40 @@
                                                     <div class="col-12 col-md-6">
                                                         <label class="form-label float-start">Your Name</label>
                                                         <input type="text" class="form-control bg-secondary text-white"
-                                                            placeholder="Enter Name" style="border: none;">
+                                                            placeholder="Enter Name" style="border: none;" id="name">
                                                     </div>
 
                                                     <div class="col-12 col-md-6">
                                                         <label class="form-label float-start">Mobile Number</label>
                                                         <input type="text" class="form-control bg-secondary text-white"
-                                                            placeholder="Enter Number" style="border: none;">
+                                                            placeholder="Enter Number" style="border: none;"
+                                                            id="mobile">
                                                     </div>
 
                                                     <div class="col-12">
                                                         <label class="form-label float-start">Email Address</label>
                                                         <input type="email" class="form-control bg-secondary text-white"
-                                                            placeholder="Enter Email" style="border: none;">
+                                                            placeholder="Enter Email" style="border: none;" id="email">
                                                     </div>
 
                                                     <div class="col-12">
                                                         <label class="form-label float-start">Subject</label>
                                                         <input type="text" class="form-control bg-secondary text-white"
-                                                            placeholder="Enter Subject" style="border: none;">
+                                                            placeholder="Enter Subject" style="border: none;"
+                                                            id="subject">
                                                     </div>
 
                                                     <div class="col-12">
                                                         <label class="form-label float-start">Your Message</label>
                                                         <textarea rows="10"
                                                             class="col-12 bg-secondary form-control text-white"
-                                                            placeholder="Enter Your Message"
-                                                            style="border: none;"></textarea>
+                                                            placeholder="Enter Your Message" style="border: none;"
+                                                            id="message"></textarea>
                                                     </div>
 
                                                     <div class="col-12">
-                                                        <button type="submit" class="col-12 btn btn-light">Send
+                                                        <button type="submit" class="col-12 btn btn-light"
+                                                            onclick="sendMessage()">Send
                                                             Message</button>
                                                     </div>
 

@@ -105,3 +105,33 @@ function changeCard2() {
   button1.classList.remove('text-warning');
 
 }
+
+function sendMessage() {
+
+  var name = document.getElementById("name");
+  var mobile = document.getElementById("mobile");
+  var email = document.getElementById("email");
+  var subject = document.getElementById("subject");
+  var message = document.getElementById("message");
+
+  var form = new FormData();
+
+  form.append('n', name.value);
+  form.append('m', mobile.value);
+  form.append('e', email.value);
+  form.append('s', subject.value);
+  form.append('msg', message.value);
+
+  var request = new XMLHttpRequest();
+
+  request.onreadystatechange = function () {
+    if (request.readyState == 4 && request.status == 200) {
+      var response = request.responseText;
+      alert(response);
+    }
+  }
+
+  request.open('POST', 'send-message.php', true);
+  request.send(form);
+
+}

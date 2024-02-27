@@ -24,7 +24,8 @@
                     <section class="mb-4">
                         <h2>
                             <!-- Facebook -->
-                            <a href="https://www.facebook.com/pasindu.og.dev.0" role="button"><i class="bi bi-facebook"></i></a>&nbsp;
+                            <a href="https://www.facebook.com/pasindu.og.dev.0" role="button"><i
+                                    class="bi bi-facebook"></i></a>&nbsp;
 
                             <!-- Instagram -->
                             <a href="#!" role="button"><i class="bi bi-instagram"></i></a>&nbsp;
@@ -42,8 +43,9 @@
 
                 <!-- Copyright -->
                 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-                    © 2024 Copyright &copy;:
-                    <a class="text-white text-decoration-none">Pasindu OG Dev</a>
+                    2024 Copyright &copy;
+                    <a class="text-white text-decoration-none">Pasindu OG Dev</a><br />
+                    <span class="mt-2 opacity-75">Designed by <a href="#" class="text-decoration-none link-warning">Pasindu OG Dev</a></span>
                 </div>
                 <!-- Copyright -->
             </footer>
