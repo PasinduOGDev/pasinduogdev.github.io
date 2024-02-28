@@ -127,7 +127,12 @@ function sendMessage() {
   request.onreadystatechange = function () {
     if (request.readyState == 4 && request.status == 200) {
       var response = request.responseText;
-      alert(response);
+      if (response == "success") {
+        alert("Message Sent Successfully");
+        window.location.reload();
+      } else {
+        
+      }
     }
   }
 

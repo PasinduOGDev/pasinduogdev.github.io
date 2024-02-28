@@ -43,7 +43,7 @@ if (empty($name)) {
     $mail->Subject = $subject;
     $bodyContent = "<h2>Subject: <b>$subject</b></h2>
 
-    <p>Hi, I am Pasindu OG and This is 'pasinduog.dev'. I am writing to let you know that this website is now live.</p>
+    <p>Hi, I am Pasindu OG and This is pasinduogdev.info. I am writing to let you know that this website is now live.</p>
 
     <p><b>You have received an email from a customer at this point. Its contents are as follows:</b></p><br/>
 

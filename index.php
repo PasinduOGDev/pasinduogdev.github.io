@@ -122,7 +122,7 @@
                                             </div>
 
                                             <div class="col-12 col-lg-6 mt-4 mt-lg-0 text-center text-lg-end">
-                                                <img src="resources/logo.png" class="col-9 mb-5">
+                                                <img src="resources/logo.png" class="col-10 mb-5">
                                             </div>
 
                                         </div>
@@ -171,8 +171,7 @@
                                                     in transforming concepts into visually appealing and interactive
                                                     digital
                                                     experiences. Known for meticulous attention to detail, I ensure that
-                                                    each
-                                                    web
+                                                    each web
                                                     application not only fulfills functional requirements but also
                                                     presents
                                                     a
