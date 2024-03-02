@@ -310,9 +310,9 @@
 
                                                         <div class="col-12 mb-5 btn-group" role="group">
                                                             <button id="toggle1" onclick="changeCard1()" type="button"
-                                                                class="col-12 col-md-6 p-2 btn btn-dark text-warning active">Website</button>
+                                                                class="col-12 col-md-6 p-2 btn btn-outline-warning text-dark fw-bold active">Website</button>
                                                             <button id="toggle2" onclick="changeCard2()" type="button"
-                                                                class="col-12 col-md-6 p-2 btn btn-dark">System</button>
+                                                                class="col-12 col-md-6 p-2 btn btn-outline-warning">System</button>
                                                         </div>
 
                                                         <div class="toggler" id="website">

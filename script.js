@@ -84,8 +84,10 @@ function changeCard1() {
   webapp.classList.add('d-none');
   button1.classList.add('active');
   button2.classList.remove('active');
-  button1.classList.add('text-warning');
-  button2.classList.remove('text-warning');
+  button1.classList.add('text-dark');
+  button2.classList.remove('text-dark');
+  button1.classList.add('fw-bold');
+  button2.classList.remove('fw-bold');
 
 }
 
@@ -101,8 +103,10 @@ function changeCard2() {
   webapp.classList.remove('d-none');
   button2.classList.add('active');
   button1.classList.remove('active');
-  button2.classList.add('text-warning');
-  button1.classList.remove('text-warning');
+  button2.classList.add('text-dark');
+  button1.classList.remove('text-dark');
+  button2.classList.add('fw-bold');
+  button1.classList.remove('fw-bold');
 
 }
 

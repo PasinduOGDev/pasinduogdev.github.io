@@ -19,7 +19,7 @@
                 <!-- Grid container -->
                 <div class="container p-4 pb-0">
                     <img src="resources/logo.png" width="100px"><br /><br />
-                    <p class="text-warning fw-bold">"Coding2Future by OG"</p>
+                    <p class="text-warning">"Coding2Future" <span class="text-light fw-bold">(Coming Soon...)</span></p>
                     <!-- Section: Social media -->
                     <section class="mb-4">
                         <h2>
