@@ -312,7 +312,7 @@
                                                             <button id="toggle1" onclick="changeCard1()" type="button"
                                                                 class="col-12 col-md-6 p-2 btn btn-outline-warning text-dark fw-bold active">Website</button>
                                                             <button id="toggle2" onclick="changeCard2()" type="button"
-                                                                class="col-12 col-md-6 p-2 btn btn-outline-warning">System</button>
+                                                                class="col-12 col-md-6 p-2 btn btn-outline-success">System</button>
                                                         </div>
 
                                                         <div class="toggler" id="website">
@@ -473,9 +473,6 @@
                                                                 <button class="col-12 button-41" role="button"><span
                                                                         class="text-dark fw-bold">Order
                                                                         Now</span></button>
-                                                                <span class="col-12 text-warning">( <span
-                                                                        class="fw-bold text-warning">Recommended</span>
-                                                                    )</span>
                                                             </div>
 
                                                         </div>
