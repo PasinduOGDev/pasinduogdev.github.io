@@ -163,7 +163,7 @@
                                                 <p>Pasindu OG is a dedicated and skilled web developer with a deep
                                                     passion
                                                     for
-                                                    crafting robust and user-friendly web applications. Boasting a keen
+                                                    crafting robust and user-friendly web applications. Boasting a keep
                                                     eye
                                                     for
                                                     design and a solid foundation in HTML, CSS, and JavaScript, Pasindu
